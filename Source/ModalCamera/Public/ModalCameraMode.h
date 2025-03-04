@@ -4,7 +4,7 @@
 
 #include "Engine/World.h"
 #include "GameplayTagContainer.h"
-#include "Core/CameraMode.h"
+#include "ModalCamera/Public/CameraModes/CameraMode.h"
 
 #include "ModalCameraMode.generated.h"
 
